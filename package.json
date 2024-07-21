@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "bin": {
     "redicode": "index.mjs"
