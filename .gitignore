@@ -1,0 +1,30 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore npm package lock file
+package-lock.json
+
+# Ignore IDE specific configuration folders
+.vscode/
+.idea/
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore build output folders (adjust the name if different)
+dist/
+
+# Temporary files
+*.tmp
+
+# Logs
+*.log
+
+# IDE specific debugger files
+*.log.*
+
+# Minified files (if applicable)
+*.min.*
