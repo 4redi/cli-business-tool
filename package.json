@@ -1,0 +1,22 @@
+{
+  "name": "cli-business-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "redicode": "index.mjs"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "keywords": [
+    "beginner",
+    "cli",
+    "learn",
+    "ascii",
+    "chalk",
+    "script"
+  ]
+}
